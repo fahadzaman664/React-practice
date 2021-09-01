@@ -1,0 +1,56 @@
+.Header {
+
+            margin-top: 10px;
+            margin-left: 10px;
+
+}
+
+.MainHeader{
+
+        background-color: aqua;
+
+}
+.MainFooter {
+
+            
+            text-align: center;
+            margin-top: 50%;
+
+}
+.MainArea {
+
+            color: burlywood;
+           
+}
+.TextArea {
+
+            background-color: cornsilk;
+            padding: 5%;
+            margin-left: 60px;
+
+}
+.AddBtn{
+        color: crimson;
+        padding: 10px;
+}
+.InputField {
+                margin-left: 50px;
+                padding: 10px;
+                
+
+
+}
+
+.MainClone2{
+
+        background-color: khaki;
+            padding: 20px;  
+            border: 4ch;
+            margin-top: 10px;  
+            margin-right: 1000px;
+
+                
+            
+
+
+}
